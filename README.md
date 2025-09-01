@@ -67,6 +67,7 @@ Titanic/
 │
 ├── Titanic.ipynb # Jupyter notebook containing the analysis and model training
 ├── titanic.csv # Titanic dataset
+├── requirements.txt # List of required Python packages
 └── README.md # Project documentation
 
 
