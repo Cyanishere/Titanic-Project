@@ -59,10 +59,14 @@ To run this project, you need to have Python installed along with the following 
 - matplotlib
 - scikit-learn
 
-You can install the required packages using the following command:
+You can install the required packages using the following command after
+[cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
 
-'pip install -r requirements.txt'
+```bash
+pip install -r requirements.txt
+```
 
+## Directory Tree
 Titanic/
 │
 ├── Titanic.ipynb # Jupyter notebook containing the analysis and model training
@@ -79,10 +83,6 @@ It provides insights into the impact of different features on survival rates.
 Jasper Lung
 linkedin.com/in/jasper-lung-95aa29242
 
-## Usage
-1. git clone https://github.com/YOUR_GITHUB_USERNAME/titanic-project.git
-cd titanic-project
-2. jupyter notebook Titanic.ipynb
 
 
 
